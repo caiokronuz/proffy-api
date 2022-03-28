@@ -10,3 +10,18 @@
 - Rota para criar uma aula;
 - Rota para listar aulas;
   - Filtrar por matéria, dia da semana e horário;
+
+# Como utilizar
+
+```console
+git clone https://github.com/caiokronuz/proffy-api.git
+```
+```console
+cd proffy-api/
+```
+```console
+npm i
+```
+```console
+npm run start 
+```
